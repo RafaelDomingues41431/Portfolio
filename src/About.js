@@ -29,11 +29,11 @@ function About() {
                 </div>
             </div>
             <div className='Contacts'>
-                <img className='ContactsIcon' src={window.location.origin + '/Gmail_icon_(2020).svg.png'} />
+                <img className='ContactsIcon' src={window.location.origin + '/Portfolio/Gmail_icon_(2020).svg.png'} />
                 <p className='ContactsText'>rafael.baeta.comingues@gmail.com</p>
-                <img className='ContactsIcon' src={window.location.origin + '/Mobile-Smartphone-icon.png'} />
+                <img className='ContactsIcon' src={window.location.origin + '/Portfolio/Mobile-Smartphone-icon.png'} />
                 <p className='ContactsText'>935377874</p>
-                <img className='ContactsIcon' src={window.location.origin + '/174857.png'} />
+                <img className='ContactsIcon' src={window.location.origin + '/Portfolio/174857.png'} />
                 <a className='ContactsText' href='https://www.linkedin.com/in/rafael-domingues-45511b206/'>https://www.linkedin.com/in/rafael-domingues-45511b206/</a>
                 <img className='ContactsIcon' src={window.location.origin + '/25231.png'} />
                 <a className='ContactsText' href='https://github.com/RafaelDomingues41431'>https://github.com/RafaelDomingues41431</a>
