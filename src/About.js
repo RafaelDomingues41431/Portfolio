@@ -35,7 +35,7 @@ function About() {
                 <p className='ContactsText'>935377874</p>
                 <img className='ContactsIcon' src={'https://rafaeldomingues41431.github.io/Portfolio/174857.png'} />
                 <a className='ContactsText' href='https://www.linkedin.com/in/rafael-domingues-45511b206/'>https://www.linkedin.com/in/rafael-domingues-45511b206/</a>
-                <img className='ContactsIcon' src={window.location.origin + '/25231.png'} />
+                <img className='ContactsIcon' src={'https://rafaeldomingues41431.github.io/Portfolio/25231.png'} />
                 <a className='ContactsText' href='https://github.com/RafaelDomingues41431'>https://github.com/RafaelDomingues41431</a>
             </div>
         </div>
