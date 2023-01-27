@@ -5,7 +5,7 @@ function About() {
         <div className='About'>
             <div className='Profile'>
                 <div>
-                    <img className='ProfilePicture' src={window.location.origin + '/Foto.png'} alt='' />
+                    <img className='ProfilePicture' src={'https://rafaeldomingues41431.github.io/Portfolio/Foto.png'} alt='' />
                 </div>
                 <div className='WhoAmI'>
                     <h3>Who am i?</h3>
