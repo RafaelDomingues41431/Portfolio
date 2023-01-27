@@ -14,8 +14,8 @@ function Header() {
                     Rafael Domingues
                 </Navbar.Brand>
                 <Nav >
-                    <Nav.Link as={Link} to="/">About</Nav.Link>
-                    <Nav.Link as={Link} to="/projects">Projects</Nav.Link>
+                    <Nav.Link as={Link} to="https://RafaelDomingues41431.github.io/Portfolio/">About</Nav.Link>
+                    <Nav.Link as={Link} to="https://RafaelDomingues41431.github.io/Portfolio/projects">Projects</Nav.Link>
                 </Nav>
             </Container>
         </Navbar>
