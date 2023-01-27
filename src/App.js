@@ -11,8 +11,8 @@ function App() {
       <div className='App'>
         <Header />
         <Routes>
-          <Route path='https://RafaelDomingues41431.github.io/Portfolio/' element={<About />} />
-          <Route path='https://RafaelDomingues41431.github.io/Portfolio/projects' element={<Projects />} />
+          <Route path='/Portfolio/' element={<About />} />
+          <Route path='/Portfolio/projects' element={<Projects />} />
         </Routes>
       </div>
     </BrowserRouter>
